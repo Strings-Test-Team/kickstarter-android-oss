@@ -5,7 +5,7 @@
     folder and tap the .apk file to install.\n\nYou must enable the option to allow installation of apps from
     unknown sources in the security settings of your device.
   </string>
-  <string name="API_Endpoint">API Endpoint</string>
+  <string name="API_Endpoint">API Endpoint. test</string>
   <string name="Base_URL">Base URL</string>
   <string name="Build">Build</string>
   <string name="Build_date">Build Date</string>
